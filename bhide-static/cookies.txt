@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.spiked-online.com	TRUE	/	FALSE	1999999999	__cf_bm	dkXMZ0208I29pQyfwaS9OvLJdcG3dek78V8x3BUCP_8-1778678418-1.0.1.1-72AAmcvgwVXWrZw0QpstP9ZuOkwxAfmXFtIxXtI76_8DTm.7p9EggWwehn9nxWqHxlY.qMlxhZ_5SPuESD9_o8T4rrXdmFCSV8E68qu_1FY
+www.spiked-online.com	TRUE	/	FALSE	1999999999	SameSite	None
+

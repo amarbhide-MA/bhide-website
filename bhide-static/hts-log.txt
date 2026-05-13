@@ -1,0 +1,453 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 May 2026 09:14:20 at https://bhide.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bhide.net -O1 "C:\My Web Sites\bhide-static" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:14:21	Warning: 	Moved Permanently for https://bhide.net/
+09:14:21	Warning: 	File has moved from https://bhide.net/ to https://bhide.net/wordpress_files/
+09:15:16	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1648
+09:15:16	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1648 to https://bhide.net/wordpress_files/index.php/publications/origin-and-evolution-of-new-businesses/
+09:15:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=36
+09:15:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=36 to https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/
+09:15:26	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Conclusions_Venturesome_Economy_bhide.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:27	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Maria_Bartiromo_Jan_7_interview.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:30	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Bhide_A_Gathering_Storm_Economist_Nov22_08.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:30	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/nypost.htm (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:38	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/bad_times_new_inventions_bhide_nyt.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:41	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/wsj_venturesome_consumption_oped_bhide_mar_12_09.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:41	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Zeit_2009_23_0028.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:42	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/John_Kay_FT_Dec_3_08.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:43	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/inc_11_08_interview.htm (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:45	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/NYT_Steve_lohr_30_Nov_08.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:45	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/venturesome_consumption_Economics_Focus.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:46	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/FT_Dec_4_08_review.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:47	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Nature_Jan_2009_Review.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:50	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/mck_quarterly_venturesome_economy_bhide.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:53	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/JACF_Venturesome_Economy_1_bhide.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:55	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/elusive_underpinnings_JACF_bhide.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:56	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/venturesome_economy/Our_Venturesome_Economy_the_american_nov_08.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/)
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=34
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=34 to https://bhide.net/wordpress_files/index.php/articles/a-call-for-judgment/
+09:15:57	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/Call_for_JudgmentAn-accident-waiting-to-happen.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-call-for-judgment/)
+09:15:57	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/Call_for_JudgmentFAZ_nov_8_10.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-call-for-judgment/)
+09:15:57	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/books/Call_for_Judgment/Money_March_2011_Big_Idea.pdf (from https://bhide.net/wordpress_files/index.php/articles/a-call-for-judgment/)
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3355
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3355 to https://bhide.net/wordpress_files/index.php/general-interest-articles/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1888
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1888 to https://bhide.net/wordpress_files/index.php/publications/hbs-cases-and-notes/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=38
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=38 to https://bhide.net/wordpress_files/index.php/origin-and-evolution-of-new-businesses/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1642
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1642 to https://bhide.net/wordpress_files/index.php/links-to-working-papers-on-transformational-medical-advances/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2435
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2435 to https://bhide.net/wordpress_files/index.php/new-ventures-syllabus/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2518
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2518 to https://bhide.net/wordpress_files/index.php/syllabus-of-seminar-on-productive-knowledge/
+09:15:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3511
+09:15:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3511 to https://bhide.net/wordpress_files/index.php/ants-poets-and-the-romance-of-progress/
+09:15:58	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2254
+09:15:58	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2254 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/
+09:15:59	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-5-frank-knight-the-spark-that-did-not-ignite/
+09:15:59	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-5-frank-knight-the-spark-that-did-not-ignite/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-5-frank-knight-the-spark-that-did-not-ignite/
+09:16:00	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-12-thaler-co/
+09:16:00	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-12-thaler-co/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-12-thaler-co/
+09:16:02	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-13-including-uncertainty/
+09:16:02	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-13-including-uncertainty/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-13-including-uncertainty/
+09:16:02	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-17-the-dominion-of-giants/
+09:16:02	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-17-the-dominion-of-giants/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-17-the-dominion-of-giants/
+09:16:02	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-18-the-aims-of-discourse/
+09:16:02	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-18-the-aims-of-discourse/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-18-the-aims-of-discourse/
+09:16:04	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-21-spillovers-from-popular-stories/
+09:16:04	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-21-spillovers-from-popular-stories/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-21-spillovers-from-popular-stories/
+09:16:04	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/chapter-22-the-case-for-widening/
+09:16:04	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/chapter-22-the-case-for-widening/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-22-the-case-for-widening/
+09:17:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1436
+09:17:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1436 to https://bhide.net/wordpress_files/index.php/medical-innovation-course/syllabus-of-course-on-medical-innovation/
+09:17:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/medical-innovation-course/links-to-working-papers-on-transformational-medical-advances/
+09:17:22	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/medical-innovation-course/links-to-working-papers-on-transformational-medical-advances/ to https://bhide.net/wordpress_files/index.php/links-to-working-papers-on-transformational-medical-advances/
+09:17:24	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=218
+09:17:24	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=218 to https://bhide.net/wordpress_files/index.php/site-map-2/
+09:17:24	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/biography/
+09:17:24	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/biography/ to https://bhide.net/wordpress_files/index.php/about-2/biography/
+09:17:24	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/biography/photos/
+09:17:24	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/biography/photos/ to https://bhide.net/wordpress_files/index.php/about/photos/
+09:17:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/cv/
+09:17:27	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/cv/ to https://bhide.net/wordpress_files/index.php/about-2/cv/
+09:17:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/flap-copy/
+09:17:27	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/flap-copy/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/flap-copy/
+09:17:29	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/advance-comments/
+09:17:29	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/advance-comments/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/advance-comments/
+09:17:29	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/table-of-contents/
+09:17:29	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/table-of-contents/ to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/table-of-contents/
+09:17:39	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?page_id=38
+09:17:39	Warning: 	File has moved from https://bhide.net/wordpress_files/?page_id=38 to https://bhide.net/wordpress_files/index.php/origin-and-evolution-of-new-businesses/
+09:17:40	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?page_id=36
+09:17:40	Warning: 	File has moved from https://bhide.net/wordpress_files/?page_id=36 to https://bhide.net/wordpress_files/index.php/articles/a-venturesome-economy/
+09:17:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?page_id=34
+09:17:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?page_id=34 to https://bhide.net/wordpress_files/index.php/articles/a-call-for-judgment/
+09:17:46	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/?page_id=233 (from https://bhide.net/wordpress_files/index.php/site-map-2/)
+09:17:46	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?page_id=210
+09:17:46	Warning: 	File has moved from https://bhide.net/wordpress_files/?page_id=210 to https://bhide.net/wordpress_files/index.php/medical-advances-cases/
+09:17:48	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3506
+09:17:48	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3506 to https://bhide.net/wordpress_files/index.php/aims-and-activities/
+09:17:51	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3108
+09:17:51	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3108 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/https-bhide-net-wordpress_files-wp-content-uploads-uncertainty_book-secured_chapters-chapter_1-pdf/
+09:18:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3224
+09:18:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3224 to https://bhide.net/wordpress_files/index.php/elaine-chao-what-we-read-in-2024/
+09:18:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3232
+09:18:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3232 to https://bhide.net/wordpress_files/index.php/general-audience-book-talk-at-the-kansas-city-public-libarary/
+09:18:28	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3264
+09:18:28	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3264 to https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/
+09:19:02	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1730063000 (from https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/)
+09:19:02	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/uploads/elementor/css/global.css?ver=1730063013 (from https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/)
+09:19:02	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css?ver=3.24.4 (from https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/)
+09:19:02	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/plugins/media-library-organizer-pro/addons/exif/assets/css/frontend.css?ver=1730063023 (from https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/)
+09:19:02	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/plugins/media-library-organizer-pro/addons/iptc/assets/css/frontend.css?ver=1730063023 (from https://bhide.net/wordpress_files/index.php/interview-with-martin-reeves/)
+09:19:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3288
+09:19:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3288 to https://bhide.net/wordpress_files/index.php/interview-with-hbs-alumni-stories-on-uncertainty-book/
+09:19:14	Error: 	"Not Found" (404) at link https://bhide.net/community/Pages/view-profile.aspx?alumId=115970 (from https://bhide.net/wordpress_files/index.php/interview-with-hbs-alumni-stories-on-uncertainty-book/)
+09:19:16	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3211
+09:19:16	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3211 to https://bhide.net/wordpress_files/index.php/mckinsey-author-talks-interview/
+09:19:16	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3253
+09:19:16	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3253 to https://bhide.net/wordpress_files/index.php/fun-chat-with-greg-lablanc/
+09:19:16	Error: 	"Not Found" (404) at link https://bhide.net/%22https:/player.simplecast.com/7e9138d3-1b63-4280-bf3f-224307abe18b?dark=false%22/iframe%22,%22resolvedBy%22:%22manual%22,%22customThumbEnabled%22:false%22 (from https://bhide.net/wordpress_files/index.php/fun-chat-with-greg-lablanc/)
+09:19:16	Error: 	"Not Found" (404) at link https://bhide.net/episodes?author=5fed450a4fa6a530d78f8003 (from https://bhide.net/wordpress_files/index.php/fun-chat-with-greg-lablanc/)
+09:19:17	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3221
+09:19:17	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3221 to https://bhide.net/wordpress_files/index.php/gene-tunny-economics-explored-podcast/
+09:19:17	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1643
+09:19:17	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1643 to https://bhide.net/wordpress_files/index.php/medical-innovation-course/history-of-project/
+09:19:17	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2430
+09:19:17	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2430 to https://bhide.net/wordpress_files/index.php/note-on-productive-knowledge/
+09:22:11	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1636
+09:22:11	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1636 to https://bhide.net/wordpress_files/index.php/publications/articles-working-papers-book-chapters/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3134
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3134 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-5-frank-knight-the-spark-that-did-not-ignite/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3137
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3137 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-12-thaler-co/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3139
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3139 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-13-including-uncertainty/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3141
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3141 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-17-the-dominion-of-giants/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3143
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3143 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-18-the-aims-of-discourse/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3145
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3145 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-21-spillovers-from-popular-stories/
+09:22:14	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3147
+09:22:14	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3147 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/chapter-22-the-case-for-widening/
+09:22:17	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3227
+09:22:17	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3227 to https://bhide.net/wordpress_files/index.php/brief-interview-on-the-paul-miller-show/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3237
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3237 to https://bhide.net/wordpress_files/index.php/a-cautiously-optimistic-view-of-llms-project-syndicate-oped/
+09:22:18	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link bhi-staging.bcg.com/wp-content/uploads/2022/09/loader.gif (from https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/themes/hello-theme-child/style.css?ver=1730063023)
+09:22:18	Error: 	"Not Found" (404) at link https://bcghendersoninstitute.com/wp-content/plugins/master-addons-pro/premium/assets/images/dropdown.png (from https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/plugins/master-addons-pro/premium/assets/css/master-addons-pro.css?ver=1730063023)
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3284
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3284 to https://bhide.net/wordpress_files/index.php/wall-street-journal-review/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3295
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3295 to https://bhide.net/wordpress_files/index.php/hbs-alumni-news-interview/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3280
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3280 to https://bhide.net/wordpress_files/index.php/thinking-in-cases/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1623
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1623 to https://bhide.net/wordpress_files/index.php/about-2/biography/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=141
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=141 to https://bhide.net/wordpress_files/index.php/about/photos/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2424
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2424 to https://bhide.net/wordpress_files/index.php/about-2/cv/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2314
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2314 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/flap-copy/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2318
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2318 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/advance-comments/
+09:22:18	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2309
+09:22:18	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2309 to https://bhide.net/wordpress_files/index.php/uncertainty-and-enterprise/table-of-contents/
+09:22:19	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3385
+09:22:19	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3385 to https://bhide.net/wordpress_files/index.php/ants-poet-and-the-romance-of-progress/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3365
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3365 to https://bhide.net/wordpress_files/index.php/my-response-to-critical-review-special-issue-on-my-book/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3327
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3327 to https://bhide.net/wordpress_files/index.php/delighted-to-be-on-martin-wolfs-summer-recommendations/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2199
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2199 to https://bhide.net/wordpress_files/index.php/dust-jacket-for-uncertainty-and-enterprise/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2125
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2125 to https://bhide.net/wordpress_files/index.php/first-book-blurb-from-one-of-my-heroes/
+09:22:21	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/wp-content/uploads/2024/03/bookcover-march-2024.jpg (from https://bhide.net/wordpress_files/index.php/first-book-blurb-from-one-of-my-heroes/)
+09:22:21	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/wp-content/uploads/2024/03/bookcover-march-2024-784x1024.jpg (from https://bhide.net/wordpress_files/index.php/first-book-blurb-from-one-of-my-heroes/)
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2130
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2130 to https://bhide.net/wordpress_files/index.php/book-cover-and-title-done/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2048
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2048 to https://bhide.net/wordpress_files/index.php/draft-of-uncertainty-judgment-and-enterprise-complete/
+09:22:21	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/wp-content/uploads/2023/11/Knight-Book-Composite-Complete-nov-17-2023.pdf (from https://bhide.net/wordpress_files/index.php/draft-of-uncertainty-judgment-and-enterprise-complete/)
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1219
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1219 to https://bhide.net/wordpress_files/index.php/part-one-for-forthcoming-book-on-uncertainty/
+09:22:21	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/wp-content/uploads/2023/02/DALL·E-2023-02-08-17.52.49-Book-cover-for-a-book-on-Uncertainty-and-Enterprise-possibly-with-a-sketch-of-Frank-Knight-in-the-backgroud1.png (from https://bhide.net/wordpress_files/index.php/part-one-for-forthcoming-book-on-uncertainty/)
+09:22:21	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/wp-content/uploads/2023/02/DALL·E-2023-02-06-15.43.49-formidable-barriers-and-forgotten-pathways.png (from https://bhide.net/wordpress_files/index.php/part-one-for-forthcoming-book-on-uncertainty/)
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1199
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1199 to https://bhide.net/wordpress_files/index.php/the-birth-of-behavioral-finance/
+09:22:21	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1148
+09:22:21	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1148 to https://bhide.net/wordpress_files/index.php/entrepreneurial-specialization-how-subjective-knightian-uncertainty-matters/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3447
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3447 to https://bhide.net/wordpress_files/index.php/defending-rapacious-deregulation-barrons-op-ed-council-for-transformative-enterprise/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3414
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3414 to https://bhide.net/wordpress_files/index.php/lab-dedicated-to-my-mothers-memory/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3303
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3303 to https://bhide.net/wordpress_files/index.php/an-iconoclastic-take-on-campus-speech/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3311
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3311 to https://bhide.net/wordpress_files/index.php/interview-with-guy-spier/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3194
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3194 to https://bhide.net/wordpress_files/index.php/fight-some-post-election-thoughts/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3189
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3189 to https://bhide.net/wordpress_files/index.php/richard-fribergs-fine-essay/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3187
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3187 to https://bhide.net/wordpress_files/index.php/yes-i-did-promote-my-book-and-bash-llms/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3020
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3020 to https://bhide.net/wordpress_files/index.php/doubling-down-on-ai-skepticism/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2999
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2999 to https://bhide.net/wordpress_files/index.php/not-taking-a-victory-lap/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2189
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2189 to https://bhide.net/wordpress_files/index.php/imagination-and-free-will/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2202
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2202 to https://bhide.net/wordpress_files/index.php/more-skeptical-remarks-about-ai/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2159
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2159 to https://bhide.net/wordpress_files/index.php/the-new-emperors-old-clothes-project-syndicate-op-ed/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2123
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2123 to https://bhide.net/wordpress_files/index.php/rip-dear-d/
+09:22:22	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2099
+09:22:22	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2099 to https://bhide.net/wordpress_files/index.php/windowless-office-to-windowless-office/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2056
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2056 to https://bhide.net/wordpress_files/index.php/failed-and-bailed-by-technology-with-expert-human-assistance/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2038
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2038 to https://bhide.net/wordpress_files/index.php/whose-company-whose-oversight/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1233
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1233 to https://bhide.net/wordpress_files/index.php/will-frivolity-sustain-the-development-of-the-new-ai/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1209
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1209 to https://bhide.net/wordpress_files/index.php/adventures-in-chatgpt-land/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1203
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1203 to https://bhide.net/wordpress_files/index.php/reading-listening-lists-for-millennials/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1196
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1196 to https://bhide.net/wordpress_files/index.php/my-nutty-but-nut-free-diet/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1193
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1193 to https://bhide.net/wordpress_files/index.php/the-fact-of-rain/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1186
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1186 to https://bhide.net/wordpress_files/index.php/the-dangers-of-dismantling-local-zoning-rules/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1180
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1180 to https://bhide.net/wordpress_files/index.php/my-mother-and-her-friends-started-the-association-50-years-ago/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1155
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1155 to https://bhide.net/wordpress_files/index.php/the-selective-sovietization-of-american-capitalism/
+09:22:23	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1128
+09:22:23	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1128 to https://bhide.net/wordpress_files/index.php/how-the-orthodoxy-in-academic-and-policy-macroeconomics-has-changed/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1126
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1126 to https://bhide.net/wordpress_files/index.php/kabul-on-the-charles/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1120
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1120 to https://bhide.net/wordpress_files/index.php/good-things-come-from-those-who-hustle/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1106
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1106 to https://bhide.net/wordpress_files/index.php/sunlighting-knightian-uncertainty-commemorating-mcarthur/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1087
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1087 to https://bhide.net/wordpress_files/index.php/celebrating-richard-dick-nelson/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1077
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1077 to https://bhide.net/wordpress_files/index.php/capitalism-wont-thrive-on-value-investing-alone-just-published-hbr-org-oped/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1071
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1071 to https://bhide.net/wordpress_files/index.php/course-evaluations-did-not-disappoint/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/index.php/productive-knowledge/lessons-from-transformational-medical-advances/
+09:22:25	Warning: 	File has moved from https://bhide.net/index.php/productive-knowledge/lessons-from-transformational-medical-advances/ to https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/
+09:22:25	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/index.php/course-evaluations-did-not-disappoint/bhide.net/syllabus/Bhide_LTMA_21_evaluations.pdf (from https://bhide.net/wordpress_files/index.php/course-evaluations-did-not-disappoint/)
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1033
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1033 to https://bhide.net/wordpress_files/index.php/tis-done-the-ltma-course/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1026
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1026 to https://bhide.net/wordpress_files/index.php/case-teaching-highs/
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1021
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1021 to https://bhide.net/wordpress_files/index.php/shorter-simplified-published/
+09:22:25	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/Making Economics More Useful Bhide JACF.pdf (from https://bhide.net/wordpress_files/index.php/shorter-simplified-published/)
+09:22:25	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1014
+09:22:25	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1014 to https://bhide.net/wordpress_files/index.php/may-or-may-not-help-but-cant-hurt/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1012
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1012 to https://bhide.net/wordpress_files/index.php/bob-aliber-remembers-george-schultz/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1009
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1009 to https://bhide.net/wordpress_files/index.php/productive-knowledge-and-the-social-sciences-some-pragmatic-ruminations/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=990
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=990 to https://bhide.net/wordpress_files/index.php/syllabus-for-transformational-medical-innovations-course-finally-completed/
+09:22:27	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/syllabus/Bhide_LTMA_syllabus_spring_2021.pdf (from https://bhide.net/wordpress_files/index.php/syllabus-for-transformational-medical-innovations-course-finally-completed/)
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=985
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=985 to https://bhide.net/wordpress_files/index.php/the-plague-in-pepyss-london/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=976
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=976 to https://bhide.net/wordpress_files/index.php/uplifting-news-to-end-a-dismal-year/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=973
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=973 to https://bhide.net/wordpress_files/index.php/new-paper-on-anonymous-lemons/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=970
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=970 to https://bhide.net/wordpress_files/index.php/to-what-end-heterodoxy-hayek-seminar-at-lse/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=963
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=963 to https://bhide.net/wordpress_files/index.php/commercial-for-hbs-spring-2021-elective/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=958
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=958 to https://bhide.net/wordpress_files/index.php/growing-scholarships-offered-by-the-indian-women-scientists-association/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=928
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=928 to https://bhide.net/wordpress_files/index.php/speculations-and-near-certainties-about-covids-consequences/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=925
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=925 to https://bhide.net/wordpress_files/index.php/confronting-our-inhumanity/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=917
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=917 to https://bhide.net/wordpress_files/index.php/impossible-shoes-difficult-timing/
+09:22:27	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=914
+09:22:27	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=914 to https://bhide.net/wordpress_files/index.php/hustling-to-beat-the-coronavirus-with-leif-pagrotsky/
+09:22:28	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=875
+09:22:28	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=875 to https://bhide.net/wordpress_files/index.php/overview-slides-of-practical-knowledge-seminar-hopefully-encourages-downloads-of-the-syllabus/
+09:22:28	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=862
+09:22:28	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=862 to https://bhide.net/wordpress_files/index.php/hindu-vedantic-views-on-life-and-death/
+09:22:29	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=855
+09:22:29	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=855 to https://bhide.net/wordpress_files/index.php/what-south-korean-taiwanese-successes-dont-resolve/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=850
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=850 to https://bhide.net/wordpress_files/index.php/honesty-in-pandemic-modelling/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=846
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=846 to https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-new-ft-oped/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/index.php/articles-2/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/index.php/articles-2/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/ to https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/index.php/practical-knowledge/completed-case-histories-of-medical-advances-as-of-july-2019/
+09:22:30	Warning: 	File has moved from https://bhide.net/index.php/practical-knowledge/completed-case-histories-of-medical-advances-as-of-july-2019/ to https://bhide.net/wordpress_files/index.php/completed-case-histories-of-medical-advances-as-of-july-2019/
+09:22:30	Error: 	"Not Found" (404) at link https://bhide.net/index.php/practical-knowledge/medical-advances-cases/lessons-from-transformational-medical-advances/ (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-new-ft-oped/)
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=830
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=830 to https://bhide.net/wordpress_files/index.php/conflating-convenience-with-correctness/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=826
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=826 to https://bhide.net/wordpress_files/index.php/how-reliable-does-a-test-need-to-be-in-order-to-be-used-for-screening/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=821
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=821 to https://bhide.net/wordpress_files/index.php/what-we-the-seasonal-flu-teaches-us-about-dealing-with-the-coronavirus-scare/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=811
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=811 to https://bhide.net/wordpress_files/index.php/frank-knights-spin-on-humes-induction-paradox/
+09:22:30	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=806
+09:22:30	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=806 to https://bhide.net/wordpress_files/index.php/making-economics-more-useful-final-typeset-version-posted/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=801
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=801 to https://bhide.net/wordpress_files/index.php/questions-about-the-practical-utility-of-randomized-control-trials/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=769
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=769 to https://bhide.net/wordpress_files/index.php/just-completed-case-history-of-coronary-artery-bypass-grafting-cabg/
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/bhide_limiting_medical_innovation.pdf (from https://bhide.net/wordpress_files/index.php/just-completed-case-history-of-coronary-artery-bypass-grafting-cabg/)
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=763
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=763 to https://bhide.net/wordpress_files/index.php/re-reading-chandlers-strategy-and-structure/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=756
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=756 to https://bhide.net/wordpress_files/index.php/a-pragmatic-libertarians-angst-about-immigration-new-oped-in-project-syndicate/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=752
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=752 to https://bhide.net/wordpress_files/index.php/in-praise-of-market-volatility-new-wsj-oped/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=691
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=691 to https://bhide.net/wordpress_files/index.php/the-zero-percent-solution-wsj-oped-tribute-to-volcker/
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/2018_Congress_should set_Fed_Inflation_target_at_Zero_WSJ.html (from https://bhide.net/wordpress_files/index.php/the-zero-percent-solution-wsj-oped-tribute-to-volcker/)
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/syllabus/Best_practice_syllabus_bhide.pdf (from https://bhide.net/wordpress_files/index.php/the-zero-percent-solution-wsj-oped-tribute-to-volcker/)
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=714
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=714 to https://bhide.net/wordpress_files/index.php/skepticism-beats-snopes-as-an-antidote-to-fake-news-wall-street-journal-op-ed/
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/2018_Skepticism_Beats_Snopes_WSJ.html (from https://bhide.net/wordpress_files/index.php/skepticism-beats-snopes-as-an-antidote-to-fake-news-wall-street-journal-op-ed/)
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=674
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=674 to https://bhide.net/wordpress_files/index.php/corralling-the-info-monopolists-project-syndicate-op-ed/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=670
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=670 to https://bhide.net/wordpress_files/index.php/formulaic-transparency-the-hidden-enabler-of-exceptional-us-securitization-new-article-in-jacf/
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/2017_JACF_Securitization__bhide.pdf (from https://bhide.net/wordpress_files/index.php/formulaic-transparency-the-hidden-enabler-of-exceptional-us-securitization-new-article-in-jacf/)
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=565
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=565 to https://bhide.net/wordpress_files/index.php/seminar-on-practical-knowledge-final-well-maybe-syllabus/
+09:22:31	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/syllabus/Practical_Knowledge_syllabus_spring_2019.pdf (from https://bhide.net/wordpress_files/index.php/seminar-on-practical-knowledge-final-well-maybe-syllabus/)
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=650
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=650 to https://bhide.net/wordpress_files/index.php/just-published-essay-on-how-public-policies-have-harmed-american-banks/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=640
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=640 to https://bhide.net/wordpress_files/index.php/equifax-critics-are-missing-the-bigger-point-wall-street-journal-op-ed/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=636
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=636 to https://bhide.net/wordpress_files/index.php/making-economics-more-useful/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=624
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=624 to https://bhide.net/wordpress_files/index.php/bottoms-up-critique-of-top-down-monetary-interventions/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1851
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1851 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm-6/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1822
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1822 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm-5/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1793
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1793 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm-4/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1765
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1765 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm-3/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1655
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1655 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm-2/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=559
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=559 to https://bhide.net/wordpress_files/index.php/lecture-on-medical-innovation-at-esbri-stockholm/
+09:22:31	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=554
+09:22:31	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=554 to https://bhide.net/wordpress_files/index.php/bloomberg-surveillance-interview-snippets/
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=545
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=545 to https://bhide.net/wordpress_files/index.php/what-central-bankers-should-and-should-not-be-asked-to-do/
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=523
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=523 to https://bhide.net/wordpress_files/index.php/you-cant-dine-in-the-clubhouse-if-you-dont-pay-the-dues/
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=498
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=498 to https://bhide.net/wordpress_files/index.php/abroad-as-at-home-first-do-no-harm/
+09:22:32	Error: 	"Gone" (410) at link https://qzprod.wordpress.com/wp-content/uploads/2016/01/books_chemical-warfare-1.jpg?quality=80&strip=all&w=1024 (from https://bhide.net/wordpress_files/index.php/abroad-as-at-home-first-do-no-harm/)
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=483
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=483 to https://bhide.net/wordpress_files/index.php/greece-isnt-too-poor-or-misgoverned-for-the-euro-oped/
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=474
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=474 to https://bhide.net/wordpress_files/index.php/ten-miles-squsupport-for-free-speech-is-not-support-for-more-surveillance/
+09:22:32	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=470
+09:22:32	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=470 to https://bhide.net/wordpress_files/index.php/the-dubious-utility-of-productivity-estimates/
+09:22:33	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3395
+09:22:33	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3395 to https://bhide.net/wordpress_files/index.php/the-true-dangers-of-trumps-tariff-wars/
+09:22:33	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3363
+09:22:33	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3363 to https://bhide.net/wordpress_files/index.php/final-essay-for-critical-review-special-issue/
+09:22:38	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=210
+09:22:38	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=210 to https://bhide.net/wordpress_files/index.php/medical-advances-cases/
+09:22:38	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?page_id=289
+09:22:38	Warning: 	File has moved from https://bhide.net/wordpress_files/?page_id=289 to https://bhide.net/wordpress_files/index.php/medical-advances-cases/medical-advances-proposal-continued/
+09:22:38	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3096
+09:22:38	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3096 to https://bhide.net/wordpress_files/index.php/case-history-project-launched/
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=3200
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=3200 to https://bhide.net/wordpress_files/index.php/stumbling-over-the-starting-line/
+09:22:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link bhi-staging.bcg.com/wp-content/uploads/2022/09/loader.gif (from https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/themes/hello-theme-child/style.css?ver=1730063023)
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2045
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2045 to https://bhide.net/wordpress_files/index.php/high-and-low-potential-applications-for-llms/
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=488
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=488 to https://bhide.net/wordpress_files/index.php/how-can-we-do-better-lessons-from-hiv-aids/
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1142
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1142 to https://bhide.net/wordpress_files/index.php/alice-in-genderland-ii/
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=2097
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=2097 to https://bhide.net/wordpress_files/index.php/christopher-saunders-in-memorium/
+09:22:41	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1133
+09:22:41	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1133 to https://bhide.net/wordpress_files/index.php/alice-in-genderland/
+09:22:45	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=893
+09:22:45	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=893 to https://bhide.net/wordpress_files/index.php/fearless-forecast-the-next-wave-of-covid-controversy/
+09:22:45	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=860
+09:22:45	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=860 to https://bhide.net/wordpress_files/index.php/ventilators-wheres-the-bottleneck/
+09:22:49	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=797
+09:22:49	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=797 to https://bhide.net/wordpress_files/index.php/ending-repo-madness-wall-street-journal-oped/
+09:22:50	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=458
+09:22:50	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=458 to https://bhide.net/wordpress_files/index.php/profits-dont-create-inequality-barrons/
+09:22:55	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=304
+09:22:55	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=304 to https://bhide.net/wordpress_files/index.php/liquidity-tradeoffs-hls-blogpost/
+09:22:56	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=408
+09:22:56	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=408 to https://bhide.net/wordpress_files/index.php/qualifying-clay-christensen-quartz-essay-with-pankaj-ghemwat/
+09:22:56	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/papers and articles/RSA_Bhide_lecture.pdf (from https://bhide.net/wordpress_files/index.php/qualifying-clay-christensen-quartz-essay-with-pankaj-ghemwat/)
+09:22:56	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link bhi-staging.bcg.com/wp-content/uploads/2022/09/loader.gif (from https://bcghendersoninstitute.com/wp-content/cache/min/1/wp-content/themes/hello-theme-child/style.css?ver=1730063023)
+09:22:56	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=838
+09:22:56	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=838 to https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/
+09:22:56	Warning: 	Moved Permanently for https://bhide.net/index.php/productive-knowledge/medical-advances-cases/
+09:22:56	Warning: 	File has moved from https://bhide.net/index.php/productive-knowledge/medical-advances-cases/ to https://bhide.net/wordpress_files/index.php/medical-advances-cases/
+09:22:56	Warning: 	Moved Permanently for https://bhide.net/index.php/productive-knowledge/syllabus-of-course-on-medical-innovation/
+09:22:56	Warning: 	File has moved from https://bhide.net/index.php/productive-knowledge/syllabus-of-course-on-medical-innovation/ to https://bhide.net/wordpress_files/index.php/syllabus-of-course-on-medical-innovation/
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/bhide.net/syllabus/Bhide_LTMA_21_evaluations.pdf (from https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/)
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/bhide.net/syllabus/Bhide_LTMA_syllabus_spring_2021.pdf (from https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/)
+09:22:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=900
+09:22:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=900 to https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/coronavirus (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/)
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/stream/433f7163-dbd5-364c-8f0b-e6115dce9ef3 (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/)
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/content/f5ebabd4-6dad-11ea-89df-41bea055720b (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/)
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/content/8e1e43d6-b0b7-11e8-8d14-6f049d06439c (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/)
+09:22:57	Error: 	"Not Found" (404) at link https://bhide.net/content/ed3fb63e-41ce-11ea-bdb5-169ba7be433d (from https://bhide.net/wordpress_files/index.php/murky-data-calls-into-question-quarantine-strategy-ft-comment-march-25-2020/)
+09:22:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=772
+09:22:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=772 to https://bhide.net/wordpress_files/index.php/completed-case-histories-of-medical-advances-as-of-july-2019/
+09:22:57	Warning: 	Moved Permanently for https://bhide.net/index.php/practical-knowledge/medical-advances-cases/
+09:22:57	Warning: 	File has moved from https://bhide.net/index.php/practical-knowledge/medical-advances-cases/ to https://bhide.net/wordpress_files/index.php/medical-advances-cases/
+09:22:57	Warning: 	Moved Permanently for https://bhide.net/index.php/practical-knowledge/lessons-from-transformational-medical-advances/
+09:22:57	Warning: 	File has moved from https://bhide.net/index.php/practical-knowledge/lessons-from-transformational-medical-advances/ to https://bhide.net/wordpress_files/index.php/lessons-from-transformational-medical-advances/
+09:22:57	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=442
+09:22:57	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=442 to https://bhide.net/wordpress_files/index.php/media/
+09:22:59	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=431
+09:22:59	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=431 to https://bhide.net/wordpress_files/index.php/sort-of-debating-jeff-sachs-in-we-the-economy/
+09:22:59	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=266
+09:22:59	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=266 to https://bhide.net/wordpress_files/index.php/testing-medical/
+09:23:00	Error: 	"Not Found" (404) at link https://bhide.net/ajax/hovercard/user.php?id=1019575184 (from https://bhide.net/wordpress_files/index.php/testing-medical/)
+09:23:01	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=289
+09:23:01	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=289 to https://bhide.net/wordpress_files/index.php/medical-advances-cases/medical-advances-proposal-continued/
+09:23:01	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=93
+09:23:01	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=93 to https://bhide.net/wordpress_files/index.php/testing-post/
+09:23:03	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=283
+09:23:03	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=283 to https://bhide.net/wordpress_files/index.php/organic/
+09:23:04	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=1051
+09:23:04	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=1051 to https://bhide.net/wordpress_files/index.php/syllabus-of-course-on-medical-innovation/
+09:23:05	Warning: 	Moved Permanently for https://bhide.net/wordpress_files/?p=285
+09:23:05	Warning: 	File has moved from https://bhide.net/wordpress_files/?p=285 to https://bhide.net/wordpress_files/index.php/course-platforms/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 49 seconds : 1434 links scanned, 1182 files written (69164622 bytes overall), 1183 files updated [47624477 bytes received at 90027 bytes/sec], 35492314 bytes transferred using HTTP compression in 1118 files, ratio 23%, 15.4 requests per connection
+(56 errors, 386 warnings, 0 messages)

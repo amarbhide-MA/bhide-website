@@ -1,0 +1,121 @@
+.elementor-kit-5{--e-global-color-primary:#2C6AA0;--e-global-color-secondary:#343434;--e-global-color-text:#040404;--e-global-color-accent:#25AE6C;--e-global-color-7272552:#44AD93;--e-global-color-f5f5241:#007C5D;--e-global-color-790c57f:#235448;--e-global-color-65367fd:#D6D6D6;--e-global-color-1a0a8c0:#F8F8F8;--e-global-color-45c1ec7:#343434;--e-global-typography-primary-font-family:"BCG Hen sans Regular";--e-global-typography-primary-font-size:24px;--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"BCG Hen sans Regular";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"BCG Hen sans Regular";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"BCG Hen sans Regular";--e-global-typography-accent-font-weight:500;}.elementor-kit-5 e-page-transition{background-color:#FFBC7D;}.elementor-kit-5 h2{font-size:34px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-right:0px;padding-left:0px;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:1023px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.wt-cli-privacy-save-btn {border-radius:2px;     font-family: "proxima-nova", Sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #007C5D;}
+    
+.cookielawinfo-row-cat-table th{    background-color: #007C5D;}
+.cli-tab-header,  .cookielawinfo-row-cat-table, .cookielawinfo-row-cat-table td {background:#f8f8f8; border:0px;}  
+
+.cli-switch input:checked + .cli-slider { background-color: #007C5D;}
+
+
+@media (min-width:1024px){
+
+
+.elementor-element-6231846.gt_home_full_post {
+    width: 62.01%;
+}
+
+
+.elementor-element-6231846   .gt_home_full_post .gt_postdes {
+    width: 37.323%;
+}
+
+#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link, #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-column > ul.mega-sub-menu > li.mega-menu-item > a.mega-menu-link {font-family: "Henderson BCG Sarif", sans-serif !important;}
+
+ #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link {
+ transition: color 0.5s ease;    
+}
+.gt_black #mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item:not(.mega-toggle-on) > a.mega-menu-link {
+    color:#D6D6D6 !important;
+    
+}
+
+.gt_black.ehf-header #masthead:before {
+    content:"";
+    background:rgba(0,0,0,.75);
+    height:100%
+    position:fixed;
+    width:100%;
+}
+
+
+
+
+
+
+body.home.ehf-header header#masthead, 
+body.archive.ehf-header header#masthead, 
+body.page-template.ehf-header header#masthead, 
+body.search.ehf-header header#masthead, 
+body.single.ehf-header header#masthead{position:fixed; width:100%; height:91px; background:#ffffff; }
+
+
+
+
+body.home [data-elementor-type="wp-page"], 
+body.page-template [data-elementor-type="wp-page"], 
+body.single [data-elementor-type="single-post"], body.archive [data-elementor-type="archive"], 
+body.search .gt_search_page
+{padding-top:91px;}
+
+
+
+.gt_black:before{
+content: '';
+position: absolute;
+top: 90px;
+bottom: 0;
+left: 0;
+right: 0;
+background: rgba(52,52,52,0.98);
+z-index: 99;
+}
+
+
+.podcastMetaBox .elementor-icon-list-items li.elementor-icon-list-item:nth-child(2){margin-left:4px !important
+;} 
+
+.podcastMetaBox .elementor-icon-list-items li:first-child {margin-right:0px !important;}
+
+.podcastMetaBox .elementor-icon-list-items li:first-child:after {display:none;}
+
+
+
+}
+
+
+body.elementor-editor-active header#masthead{position:relative !important;}
+
+.admin-bar #gt_head_form {
+    top: 32px;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'BCG Hen sans Regular';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://bcghendersoninstitute.com/wp-content/uploads/2021/12/BCGHenSansBold-3.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BCG Hen sans Regular';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://bcghendersoninstitute.com/wp-content/uploads/2021/12/BCGHenSansItalic-2.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BCG Hen sans Regular';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('https://bcghendersoninstitute.com/wp-content/uploads/2021/12/BCGHenSansRegular-2.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'BCG Hen sans Regular';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('https://bcghendersoninstitute.com/wp-content/uploads/2021/12/BCGHenSansLight-2.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
