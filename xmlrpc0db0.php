@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://bhide.net/wordpress_files</homePageLink>
+		<homePageLink>http://localhost:10004</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://bhide.net/wordpress_files/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://bhide.net/wordpress_files/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://bhide.net/wordpress_files/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://bhide.net/wordpress_files/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://bhide.net/wordpress_files/index.php/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="http://localhost:10004/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://localhost:10004/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://localhost:10004/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="http://localhost:10004/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="http://localhost:10004/index.php/wp-json/" />
 			</apis>
 	</service>
 </rsd>

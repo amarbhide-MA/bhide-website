@@ -437,7 +437,7 @@
 											}
 										}),
 									d.open(
-										'GET',
+										'GET.html',
 										'https://api.rss2json.com/v1/api.json?rss_url=' +
 											n.settings.source.url +
 											'&count=' +
@@ -448,7 +448,7 @@
 									),
 									d.send())
 								: ((e = new XMLHttpRequest()).open(
-										'GET',
+										'GET.html',
 										'https://query.yahooapis.com/v1/public/yql?q=' +
 											encodeURIComponent(
 												'select * from rss where url="' +
